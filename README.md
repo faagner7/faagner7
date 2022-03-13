@@ -15,6 +15,8 @@ Experience:
  Learning:
  - Next
  - Typescript
+ - GraphCMS
+ - GraphQL (Apollo, urql, graphql-codegen)
  
  
  "Never stop learning"
