@@ -11,6 +11,7 @@ Experience:
  - React
  - Redux
  - ContextAPI
+ - Vue
  
  Learning:
  - Next
