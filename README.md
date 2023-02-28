@@ -11,10 +11,11 @@ Experience:
  - Redux
  - ContextAPI
  - Vue
- 
- Learning:
  - Next
  - Typescript
+ 
+ 
+ Learning:
  - GraphCMS
  - GraphQL (Apollo, urql, graphql-codegen)
  
