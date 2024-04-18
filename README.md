@@ -18,7 +18,7 @@ Experience:
  - GraphQl
  - TailwindCSS
  - MySQL (basic)
- - Postegresql (basic)
+ - Postgresql (basic)
  
  
  Learning:
