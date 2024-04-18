@@ -13,11 +13,15 @@ Experience:
  - Vue
  - Next
  - Typescript
+ - PHP - Laravel
+ - Docker
+ - GraphQl
+ - Tailwind
  
  
  Learning:
- - GraphCMS
- - GraphQL (Apollo, urql, graphql-codegen)
+ - Ruby on rails
+ 
  
  
  "Never stop learning"
