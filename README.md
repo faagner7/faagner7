@@ -17,6 +17,8 @@ Experience:
  - Docker
  - GraphQl
  - TailwindCSS
+ - MySQL (basic)
+ - Postegresql (basic)
  
  
  Learning:
