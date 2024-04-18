@@ -16,7 +16,7 @@ Experience:
  - PHP - Laravel
  - Docker
  - GraphQl
- - Tailwind
+ - TailwindCSS
  
  
  Learning:
