@@ -22,7 +22,8 @@ Experience:
  
  
  Studying:
- - Ruby (Ruby on Rails)
+ - Java SpringBoot
+ - NestJs
  
  
  
