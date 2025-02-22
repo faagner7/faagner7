@@ -7,17 +7,18 @@ and backend enthusiast.
 [![Gmail Badge](https://img.shields.io/badge/-faagner.rodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faagner.rodrigues@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Experience:
-- JavaScript
-- Typescript
 - React
 - Redux
 - ContextAPI
 - Vue
 - Next
+- JavaScript
+- Typescript
 - PHP - Laravel
 - Docker
 - GraphQL
 - Tailwind CSS
+- Material UI
 - MySQL (basic level)
 - PostgreSQL (basic level)
  
